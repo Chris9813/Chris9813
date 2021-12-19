@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Crypto Feline NFT Web**
 
-- 🌱 I’m currently learning **Node.js, MongoDB, Express, TypeScript**
-
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **chordonez@umariana.edu.co**
